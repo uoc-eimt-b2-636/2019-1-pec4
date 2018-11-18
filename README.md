@@ -1,0 +1,1 @@
+PEC4: msp432-cc3100-sensors-freertos project
